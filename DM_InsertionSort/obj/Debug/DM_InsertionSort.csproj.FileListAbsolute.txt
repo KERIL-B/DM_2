@@ -1,0 +1,6 @@
+E:\vs2012\1progs\DM_InsertionSort\DM_InsertionSort\bin\Debug\DM_InsertionSort.exe.config
+E:\vs2012\1progs\DM_InsertionSort\DM_InsertionSort\bin\Debug\DM_InsertionSort.exe
+E:\vs2012\1progs\DM_InsertionSort\DM_InsertionSort\bin\Debug\DM_InsertionSort.pdb
+E:\vs2012\1progs\DM_InsertionSort\DM_InsertionSort\obj\Debug\DM_InsertionSort.csprojResolveAssemblyReference.cache
+E:\vs2012\1progs\DM_InsertionSort\DM_InsertionSort\obj\Debug\DM_InsertionSort.exe
+E:\vs2012\1progs\DM_InsertionSort\DM_InsertionSort\obj\Debug\DM_InsertionSort.pdb
